@@ -1,0 +1,58 @@
+{
+    "class_id": "com-snaplogic-snaps-email-smtpaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "EK-QuantumDev"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "acc"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "attachmentPassword": {
+                "fp": "5012d0df55b774f0cefbcd5525224d953ef7547ff14e32208dbe406ab1c1363b",
+                "key": "account-cloud-managed-5b86cb0e59ee130a964d7d14-2018-08-29T16:35:17-681404+00:00",
+                "sym_iv": "Lz3roXbK4w/uYfF04gtEpw==",
+                "sym_key": "i361/L60KCvftm8M84WtbP1l7kr8EjrsIe+i1O+Q2igGyUMt3w661IA9g80V7+uIsYccWnWXECZP1INihX/aQYnVrxAECkp74GkfKwklEpbw/2BjQdYuopYdFdlXvaGqhRkUMHeQxiDnMKAPXjkd3j4qRTXfmBiuPnCEALg7722dzSewr6bsAofTiEiyOIdODInwdIdADEhSaB9iwGIFZxHWcXxNewN/6lX8ovjuohP5elFh6Xafn9iZh27Q3aL5Nfwf++49DtWehoAW9UlKSX49Ob7swHT+fiJUXhSeU/tsEj+DvlEI8CyOJB4Do8VXozZtUOQdCCpTp45XOVm6iA==",
+                "value": "uXi9EuvHCayOvTogjmx9DA=="
+            },
+            "connectionTimeout": {
+                "value": 60000
+            },
+            "emailId": {
+                "value": "rmsathyaraj@gmail.com"
+            },
+            "mailProperties": {
+                "value": []
+            },
+            "password": {
+                "fp": "5012d0df55b774f0cefbcd5525224d953ef7547ff14e32208dbe406ab1c1363b",
+                "key": "account-cloud-managed-5b86cb0e59ee130a964d7d14-2018-08-29T16:35:17-681404+00:00",
+                "sym_iv": "vFlNhn4HtvzXJFY6ymAIVQ==",
+                "sym_key": "RJgs28iLiqMQC5euHVQrz1xKQGrpz+5EGp/mYRJOVxUfwuXezTaeelRPeAjuDCItl0Ib5gpV9TRpLLdcHC6sqCcxO7Kl8G2Vu+xMcCLtuq8DqZ08HU/43XNh60KWAlNsQrQtr8q6RoUyjHp3OAjBvnY2ajg1M4Mrh6s+gYC6Wx4lI7S0I76CKlg9PiDR3l4C3M/0uEH7oS0HgomCnYGFsHEh0GbbVBwh5zLkQSrwF6MXolikMk6Z5B6I4XoMMuEYXe8P5zy8CnlVuI+uGBpUeNX4+VRIc9ab3rda4coxB2no99Tr7PDvMZ8cKCFRjLWQDRUpJm/gDetaTyCc7PD1SA==",
+                "value": "GUNlDxOpN6jMW2AD3kLlGw=="
+            },
+            "port": {
+                "value": "465"
+            },
+            "readTimeout": {
+                "value": 60000
+            },
+            "secureConnection": {
+                "value": "STARTTLS"
+            },
+            "serverDomain": {
+                "value": "smtp.gmail.com"
+            },
+            "writeTimeout": {
+                "value": 60000
+            }
+        },
+        "view_serial": 100
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "Sat_1_Apigee Task",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "execution_timeout": null,
+        "include_external_urls": true,
+        "job_alias": "",
+        "job_type": "regular",
+        "llfeed_token": "ftttZx9aZNpzxv08q9txIJioIyiLwMYw",
+        "max_failures": 10,
+        "max_in_flight": 200,
+        "notification": {
+            "recipients": null
+        },
+        "pipeline_path": "Sat_1_Apigee_1",
+        "snaplex_path": "Cloudplex_EU",
+        "watchdog": {
+            "instances": 1,
+            "per": "PLEX"
+        }
+    },
+    "schedule": {
+        "always_on": true
+    },
+    "trigger": {
+        "always_on": true
+    },
+    "trigger_type": "ScheduleTrigger"
+}

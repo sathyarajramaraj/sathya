@@ -1,0 +1,32 @@
+{
+    "class_id": "com-snaplogic-snaps-binary-binarybasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "EK-QuantumDev"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Sathya_Test_Acc"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "expression": false,
+                "fp": "5012d0df55b774f0cefbcd5525224d953ef7547ff14e32208dbe406ab1c1363b",
+                "key": "account-cloud-managed-5b86cb0e59ee130a964d7d14-2018-08-29T16:35:17-681404+00:00",
+                "sym_iv": "LLBNIwCXELsH9fQaZ+GkUg==",
+                "sym_key": "MUQ18JZ6Pny3TrxDMpX9E/MKwral68+PBSZJ9ml289UwJX5PdH4WVOAoKCHFH2HQLaJ+GrL2r7GRYPFui3+H7l8/MZ3+uKMPGArEZe5Sc1Fd9K/YhgyVd6I6izSvgG/mquW4dhXSAGf3qnI98lFTSsaQbAaE3HO3SJiCeA+XneWCB9xN8d2FYO+qjDMNb9celRqdW1AlNVFAIpR6arUaj9LCWLT+mhx7ilMVJ3LUPtPhGGMm7yGz2kdlaXHT6TEJmRsDPoRBAWxJRjZgn9IT9GVRpGlkjtP+lZSev0IvVnlesv3ijmDmpDvSg1+kEmWFo23AB+hJVn6W5Lq6jzUjWw==",
+                "value": "Kkk+X3b24iw+iH+ywTyQUA=="
+            },
+            "username": {
+                "expression": false,
+                "value": "sathya_test"
+            }
+        },
+        "view_serial": 100
+    }
+}

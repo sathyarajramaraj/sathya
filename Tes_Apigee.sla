@@ -1,0 +1,30 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "EK-QuantumDev"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Tes_Apigee"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "5012d0df55b774f0cefbcd5525224d953ef7547ff14e32208dbe406ab1c1363b",
+                "key": "account-cloud-managed-5b86cb0e59ee130a964d7d14-2018-08-29T16:35:17-681404+00:00",
+                "sym_iv": "koQeNw2u2NwpcbuxO4mNww==",
+                "sym_key": "oSyvZpSUtEAN3Nrt3RGdTGyk0n4ZX4d5xch5dTKSWVNjXefGvn6RnvJMDt5T4jGEWpMw0fs3o0VGRaSdqUFt7Uj8qcEKG5hnFNevJz8JEoUdlAJ/I4vKtI9Ax8RQ3nFfKnA96trMzU/2iOcpB7FyVnpqDUjiHORLGgxSvcp6ag5FP8/W5x0BRx4ZzT8ev+3k0ZyFHed3BbnEaVrbLrllIa1vvfYLdO4HCaVPc05wl6YsbaDkYRGdm5W1gfKt2QldczmS4GwrP8m+ub9KiA66ySRIifh/Bn0BuY8qkgzxDL2w9BchgbBxTyRcXLBsw1j5IA86YPPRVR/2Su0/M0W0CQ==",
+                "value": "79GZe9oZ+E2BcU3ie+pyWQ=="
+            },
+            "username": {
+                "value": "rmsathyaraj@gmail.com"
+            }
+        },
+        "view_serial": 100
+    }
+}

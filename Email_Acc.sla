@@ -1,0 +1,58 @@
+{
+    "class_id": "com-snaplogic-snaps-email-smtpaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "EK-QuantumDev"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Email_Acc"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "attachmentPassword": {
+                "fp": "5012d0df55b774f0cefbcd5525224d953ef7547ff14e32208dbe406ab1c1363b",
+                "key": "account-cloud-managed-5b86cb0e59ee130a964d7d14-2018-08-29T16:35:17-681404+00:00",
+                "sym_iv": "LyJtDvKtTEuxxdW11i7RLw==",
+                "sym_key": "izNyCI4hx5irReqeYLwu8rloi/IE+ZsdUjwxJGJu10c4O+Rac9p5gR3fBAO0anTyUs940XBdj8BUe34kXT/Q8IyrRtxip2BsrEFvoDlTxs9e/W7fvtMt9jRuoL4XqxeCmfdf39MKlCmQdWNzUxY3vEuZLaUZba5T7MLju9WolDpmZy7+Mq8DhLKSllNlI6pJOF7E38g18JfPnQsypVLBjynx9Bu646WwHP6yhHE7hoMD7gz5CvAlnkwJA+KLbyQbqehI1ffOOlBi8BP191w0m/vfYlWFs7SftkDLgzXV6XjkhCOvLEZh+eDpCNo4KBAr8VJPwhrIG58X7SBXW8ySVQ==",
+                "value": "xbs2KnAX3oPECX6RNQXM/A=="
+            },
+            "connectionTimeout": {
+                "value": 60000
+            },
+            "emailId": {
+                "value": "sathyaraj.ramaraj@dnata.com"
+            },
+            "mailProperties": {
+                "value": []
+            },
+            "password": {
+                "fp": "5012d0df55b774f0cefbcd5525224d953ef7547ff14e32208dbe406ab1c1363b",
+                "key": "account-cloud-managed-5b86cb0e59ee130a964d7d14-2018-08-29T16:35:17-681404+00:00",
+                "sym_iv": "Eha7hJbNi42LSt6jJ13mDQ==",
+                "sym_key": "hOlYqJSS1hNFy9auZcqDcjtbV4cy/ulRB1mBE5ywGLvOLIBUhlskJsG8R/zol+xZe7o19CuwEdRNlMuzEwqaFbHzuq52LfzOgTDpMnX/IqeqgovSsIrVUUg5xWdrQn1Rx3rU1yFp/Z9fiWXMjTGmN3Gn2prTNT8ADqxGr+gbXw4HOGq9jcZmVhC48nOMcHy4tdhZB/cEwYZCH4dU041wokhHNjEHxLKcxC8sH7LQOX8e5ef7k/XpU0jHt5OnCqEf0Ptiv5rJ8CHLNg9LMrrP4zxPd3J0zwHyOEfCOA9E4/1NWDlYxw/nS7bWkfeVXTfmzoRmDlxST9CLmdjTy/Ts8Q==",
+                "value": "VBxMYIFG5cNFExEqiNhjWA=="
+            },
+            "port": {
+                "value": "587"
+            },
+            "readTimeout": {
+                "value": 60000
+            },
+            "secureConnection": {
+                "value": "NONE"
+            },
+            "serverDomain": {
+                "value": "smtp.office365.com"
+            },
+            "writeTimeout": {
+                "value": 60000
+            }
+        },
+        "view_serial": 100
+    }
+}

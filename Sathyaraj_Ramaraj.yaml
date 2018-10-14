@@ -1,0 +1,22 @@
+swagger: '2.0'
+info:
+  title: Sathyaraj Ramaraj
+  description: ''
+  version: '1.0'
+host: prod-ekquantumdev-fm.snaplogic.io
+basePath: /api/1/rest/feed/EK-QuantumDev/projects/Sathyaraj Ramaraj
+schemes:
+- https
+paths:
+  /Sat_1_Apigee Task:
+    get:
+      produces:
+      - application/json
+      responses:
+        '200':
+          description: OK
+securityDefinitions:
+  basicAuth:
+    type: basic
+security:
+- basicAuth: []
